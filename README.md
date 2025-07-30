@@ -1,9 +1,4 @@
 
-![](banner.webp "万能青年旅店")
-<p align="center">万能青年旅店 —— 永嘉彗星</p>
-<p align="center">Omnipotent Youth Society</p>
-
-
 ## Hi there :wave:
 
 软件测试工程师，目前流浪湖南。
